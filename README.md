@@ -1,10 +1,10 @@
-# BTC钱包恢复服务
+# BTC钱包恢复服务😂
 
 如果你忘记了比特币钱包的密码，我可以帮你找回。
 
 ## 服务说明：
-- **密码长度**：如果你的密码是9位，并且你完全想不起来，大约需要3个月时间破解。
-- **前提条件**：钱包必须是你的，拒绝骗子。
+- **密码长度**：如果你的密码是9位，并且你完全想不起来，大约需要3个月时间破解😥。
+- **前提条件**：钱包必须是你的，骗子勿扰，如果敢忽悠我，我还是有点手段的🤣。
 
 ## 交易流程：
 - 找到密码后，我们可以线下交易。
@@ -27,8 +27,7 @@
 
 ## 成功案例
 
-- [1Jkn9wg1WbJdASNBPtQqdmm7wtrcSiATbf](https://www.chessfaucet.com/downloads/wallet_fake_008.dat)。 密码: "Hunnibear9".
-可惜是个假钱包。
+- [1Jkn9wg1WbJdASNBPtQqdmm7wtrcSiATbf](https://www.blockchain.com/explorer/addresses/btc/1Jkn9wg1WbJdASNBPtQqdmm7wtrcSiATbf)。[点我下载钱包](https://www.chessfaucet.com/downloads/wallet_fake_008.dat) 密码: "Hunnibear9".
 
 
 
