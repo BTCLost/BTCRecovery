@@ -30,7 +30,7 @@
 
 - [1Jkn9wg1WbJdASNBPtQqdmm7wtrcSiATbf](https://www.blockchain.com/explorer/addresses/btc/1Jkn9wg1WbJdASNBPtQqdmm7wtrcSiATbf)。[点我下载钱包](https://www.chessfaucet.com/downloads/wallet_fake_008.dat) 密码: "Hunnibear9".
 
-但是这个是一个假钱包。
+但是这个是一个假钱包😭😭😭。
 
 
 
